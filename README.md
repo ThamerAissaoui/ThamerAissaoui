@@ -8,9 +8,10 @@
 <h1 align="center">Hi 👋, I'm Thameur</h1>
 <h3 align="center">A passionate Data Engineer from Canada</h3>
 
+---
+<p align="left"><img src="https://github.com/ThamerAissaoui/ThamerAissaoui/blob/main/dp900.png" alt="thameraissaoui" /> <img src="https://github.com/ThamerAissaoui/ThamerAissaoui/blob/main/logo-oiq-white.webp" style="width:50%; height:50%;/> </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/ThamerAissaoui/ThamerAissaoui/blob/main/dp900.png" alt="thameraissaoui" /></a> </p>
+---
 
 
 - 🔭 I’m currently working on [Big Data Backends Projects](at ExfO)
