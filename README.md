@@ -11,7 +11,7 @@
 ---
 <p align="left">
       <img src="https://github.com/ThamerAissaoui/ThamerAissaoui/blob/main/dp900.png" alt="thameraissaoui" /> 
-      <img src="https://github.com/ThamerAissaoui/ThamerAissaoui/blob/main/logo-oiq-white.webp" style="width:50%;height:50%;/> 
+      <img src="https://github.com/ThamerAissaoui/ThamerAissaoui/blob/main/oiq.png"/> 
          
 </p>
 
