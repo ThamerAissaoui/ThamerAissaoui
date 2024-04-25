@@ -31,7 +31,7 @@ Ordre des Ingénieurs du Québec, OIQ – 6027743.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/text text" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="text text" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/text text" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="text text" height="30" width="40" /></a>
+<a href="https://tn.linkedin.com/in/thameuraissaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="text text" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/text text" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="text text" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/text text" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="text text" height="30" width="40" /></a>
 </p>
