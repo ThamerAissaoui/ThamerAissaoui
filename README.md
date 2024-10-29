@@ -22,6 +22,8 @@
 
 - 🏆💻📱🖥️ Microsoft Certified: Azure Data Fundamentals DP900
 Credential ID : 8FE944-C2NC5F
+- 🏆💻📱🖥️ Microsoft Certified: Azure Data Engineer DP203
+Credential ID : B83E19-4CFBPB
 - 👨📐✏️📈 Candidat en Profession d’ingénierie, CPI.
 Ordre des Ingénieurs du Québec, OIQ – 6027743.
 - 📚🎓🧠🔬 Bachelor of Engineering: Software Engineering.
