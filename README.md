@@ -10,8 +10,8 @@
 
 ---
 <p align="left">
-      <img src="https://github.com/ThamerAissaoui/ThamerAissaoui/blob/main/azure-data-engineer-associate-600x6008683326930101751108.png" alt="thameraissaoui" width="15%" />
-      <img src="https://github.com/ThamerAissaoui/ThamerAissaoui/blob/main/dp900.png" alt="thameraissaoui" /> 
+      <img src="https://github.com/ThamerAissaoui/ThamerAissaoui/blob/main/azure-data-engineer-associate-600x6008683326930101751108.png" alt="thameraissaoui" width="20%" />
+      <img src="https://github.com/ThamerAissaoui/ThamerAissaoui/blob/main/dp900-badge.png" alt="thameraissaoui" width="20%" /> 
       <img src="https://github.com/ThamerAissaoui/ThamerAissaoui/blob/main/oiq.png"/> 
          
 </p>
